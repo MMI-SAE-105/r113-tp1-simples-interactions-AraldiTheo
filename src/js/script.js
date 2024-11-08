@@ -1,6 +1,6 @@
 // TODO
 const aMettreEnRouge = document.querySelector("#a-mettre-en-rouge");
-const enRougeSuiteAClick = document.querySelector("#en-rouge-a-click");
+const enRougeSuiteAClick = document.querySelector("#en-rouge-suite-a-click");
 const collH2 = document.querySelectorAll("h2");
 
 aMettreEnRouge.style.color = "red";
